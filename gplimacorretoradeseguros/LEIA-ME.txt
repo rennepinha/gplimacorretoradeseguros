@@ -1,0 +1,19 @@
+GPOLIMA Corretora de Seguros — site institucional
+
+Arquivos: index.html (estrutura), styles.css (aparência responsiva), script.js (interações) e img/logo-header.png (logo do site) e img/favicon-gpolima.png (favicon), derivados de img/logo1.png.
+
+Personalização:
+- Para trocar o WhatsApp, altere WHATSAPP_NUMBER no início de script.js. Use DDI + DDD + telefone, somente dígitos.
+- O nome GPOLIMA pode ser ajustado diretamente no index.html.
+- O formulário abre o WhatsApp com a mensagem preenchida; não envia nem armazena dados em servidor.
+- DM Sans e Manrope vêm do Google Fonts; sem conexão, entram as fontes de sistema como alternativa.
+
+
+- O hero usa img/herobanner-optimized.jpg (gerada da imagem img/herobanner.jfif, original mantida).
+
+- Os cards dos ramos usam img/RamosGPO-optimized.jpg como sprite responsivo; o arquivo RamosGPO.jfif original foi mantido.
+
+- Os logos em PNG da pasta parceiros/ são exibidos em caixas padronizadas, preservando a proporção.
+
+- A grade do site utiliza as cópias sem fundo em parceiros/transparent/; os PNGs originais continuam na pasta parceiros/.
+
